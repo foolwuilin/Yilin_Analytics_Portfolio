@@ -45,18 +45,6 @@ A good RFM analysis would help businesses target the right customers in order to
 
 ![](/images/rfm.jpg)
 
-## Project 6: [Twitter Sentiment Analysis with Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Main%20Body_Github.ipynb)
-[Acess the code of data scraping here](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Data%20Scraping.ipynb)
+## Project 6: Executive Board Compiled by Google Data Studio and Google Analytics
 
-Competitor analysis for inMusic Brands, one of the major DJ equipment companies, to review the tweets relating to the company's brands and the major competitor, Pioneer DJ. inMusic owns 4 DJ brands, Numark, Rane DJ, Denon DJ, and Stanton.
-
-Messages were scrapped by the Twitter API from July 16 to July 25, 2021. The analysis answers the questions.
-
-1. When to post would get more retweets and likes?
-2. What are the most common words used in these messages?
-3. Which messages are the most sentimental?
-4. Which company is more popular by comparing the brands of inMusic to Pioneer DJ?
-5. How do different communities connect to each other?
-6. How accurate is a model to predict the likes and retweets that the messages are going to get?
-
-![](/images/dj_brands.jpg)
+![](/images/flood_it.jpg)
