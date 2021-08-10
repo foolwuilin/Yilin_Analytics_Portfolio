@@ -3,6 +3,12 @@ Yilin Wu - MBA in business analytics and M.E. in broadcast engineering. Experien
 
 ## Project 1: [RFM Analysis with K-means Clustering](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/RFM%20with%20K-means/rfm-analysis-with-k-means-clustering_0810.ipynb)
 
+
+
+![](/images/hierarchy.jpg)
+
+## Project 4: [RFM Analysis with K-means Clustering](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/RFM%20with%20K-means/rfm-analysis-with-k-means-clustering_0810.ipynb)
+
 A good RFM analysis would help business target the right customers in order to maximize the profit. The given dataset contains sales records with 64.682 transactions and 22.625 customers IDs in 2016. The columns are Transaction, Customer ID, Transaction ID, Category, SKU, Quantity, and Sales Amount. This analysis answers the questions as follows.
 
 1. What is the retention rate of the users in terms of the date since these users sign up.
