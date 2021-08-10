@@ -6,9 +6,7 @@
 ## Project 2: [Sentiment Analysis, Likes & Retweets Prediction (Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Main%20Body_Github.ipynb)
 [Acess the code of data scraping here](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Data%20Scraping.ipynb)
 
-Competitor analysis for inMusic Brands, one of the major DJ equipment companies, to review the tweets relating to the company's brands and the major competitor, Pioneer DJ. inMusic owns 4 DJ brands, Numark, Rane DJ, Denon DJ, and Stanton.
-
-Messages were scrapped by the Twitter API from July 16 to July 25, 2021. The analysis answers the questions.
+Sentiment analysis for inMusic Brands to review the tweets relating to the company's brands and the major competitor, Pioneer DJ. inMusic owns 4 DJ brands, Numark, Rane DJ, Denon DJ, and Stanton. Messages were scrapped by the Twitter API from July 16 to July 25, 2021. The analysis answers the questions.
 
 1. What time to post would get more retweets and likes?
 2. What are the most common words used in these messages?
