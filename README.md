@@ -1,8 +1,8 @@
 # Yilin Wu's Data Science/Analytics Portfolio
 Yilin Wu - MBA in business analytics and M.E. in broadcast engineering. Experience with over 2 years of Project Manager experience driving product development for consumer electronics, e.g. DJ equipment, speakers, electric musical instruments, etc., and 6 plus years of experience as a broadcast engineer for TV production, news, live concerts, etc. Certified in product management (PMP), project management (NPDP), strategic planning (WBSA), data analytics (Python), DJing (Scratch DJ Academy), etc.
 
-## Project 1: Data Scraping through the APIs
-A competitor analysis for inMusic Brands, one of major DJ equipment companies, to review the tweets relating to the company's brands and the major competitor, Pioneer DJ. inMusic owns 4 DJ brands, Numark, Rane DJ, Denon DJ, and Stanton.
+## Project 1: [Data Scraping through the APIs](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Main%20Body_Github.ipynb)
+Competitor analysis for inMusic Brands, one of the major DJ equipment companies, to review the tweets relating to the company's brands and the major competitor, Pioneer DJ. inMusic owns 4 DJ brands, Numark, Rane DJ, Denon DJ, and Stanton.
 
 Messages were scrapped by the Twitter API during July 16 to July 25, 2021. The analysis plan is to answer the questions.
 
