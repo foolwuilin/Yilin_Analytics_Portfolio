@@ -1,7 +1,7 @@
 # Yilin's Data Science/Analytics Projects
 Yilin Wu - MBA in business analytics and M.E. in broadcast engineering. Over 2 years of Project Manager experience driving product development for consumer electronics as well as DJ equipment. 6 years of broadcast engineer experience for TV production. Certified expertise in PMP, NPDP, WBSA, Six Sigma, Data Analytics, Audio Engineering, DJing, etc.
 
-[Kaggle](https://www.kaggle.com/foolwuilin)｜[Linkedin](http://www.linkedin.com/in/yilin-william-wu)｜[TikTok](http://tiktok.com/@foolwuilin/)｜[Instagram](https://www.instagram.com/foolwuilin/)｜[Facebook](https://www.facebook.com/foolwuilin)｜[Youtube](https://www.youtube.com/user/ichizero)
+#### [Kaggle](https://www.kaggle.com/foolwuilin)｜[Linkedin](http://www.linkedin.com/in/yilin-william-wu)｜[TikTok](http://tiktok.com/@foolwuilin/)｜[Instagram](https://www.instagram.com/foolwuilin/)｜[Facebook](https://www.facebook.com/foolwuilin)｜[Youtube](https://www.youtube.com/user/ichizero)
 
 ## Project 2: [Sentiment Analysis, Likes & Retweets Prediction (Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Main%20Body_Github.ipynb)
 [Acess the code of data scraping here](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Data%20Scraping.ipynb)
