@@ -3,7 +3,7 @@ Yilin Wu - MBA in business analytics and M.E. in broadcast engineering. Experien
 
 
 
-## Project 3: [Customer Bahavior Analysis trhough K-means and Hierarchical Clustering](Customer Behavior Clustering/quantile-k-means-and-hierarchical-clustering.ipynb)
+## Project 3: [Customer Bahavior Analysis trhough K-means and Hierarchical Clustering](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/Customer%20Behavior%20Clustering/quantile-k-means-and-hierarchical-clustering.ipynb)
 
 A russian alchol company had a success when running a wine promotion in Saint Petersburg. This analysis would like to suggest other locations where the buying behaviors of customers are similar to Saint Petersburg for further promotions to maximize the profits. Here are the questions.
 
