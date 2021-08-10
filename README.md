@@ -45,6 +45,6 @@ A good RFM analysis would help businesses target the right customers in order to
 
 ![](/images/rfm.jpg)
 
-## Executive Board EXample (Flood-It by Google Data Studio and Google Analytics)
+## Executive Board (Flood-It by Google Data Studio and Google Analytics)
 
 ![](/images/flood_it_small.jpg)
