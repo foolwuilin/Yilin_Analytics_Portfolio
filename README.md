@@ -15,4 +15,4 @@ Messages were scrapped by the Twitter API during July 16 to July 25, 2021. The a
 5. How do different communities connect to each other?
 6. How accurate is a model to predict the likes and retweets that the messages are going to get?
 
-![](/images/dj_brands.png)
+![](/images/dj_brands.jpg)
