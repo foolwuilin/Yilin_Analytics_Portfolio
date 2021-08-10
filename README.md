@@ -35,7 +35,7 @@ A market basket analysis would help understand the buying behavior of customers.
 2. What are the most important items that should always be in the store?
 3. How do the items connect to each other?
 
-![](/images/network.jpg)
+![](/images/network_800.jpg)
 
 ## Project 5: [Market RFM Analysis (Retention, Frequency, and Monetary)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/RFM%20with%20K-means/rfm-analysis-with-k-means-clustering_0810.ipynb)
 
