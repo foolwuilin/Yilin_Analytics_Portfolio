@@ -1,5 +1,5 @@
 # Yilin's Data Science/Analytics Projects
-#### [Kaggle](https://www.kaggle.com/foolwuilin)｜[Linkedin](http://www.linkedin.com/in/yilin-william-wu)｜[TikTok](http://tiktok.com/@foolwuilin/)｜[Instagram](https://www.instagram.com/foolwuilin/)｜[Facebook](https://www.facebook.com/foolwuilin)｜[Youtube](https://www.youtube.com/user/ichizero)
+#### [Kaggle](https://www.kaggle.com/foolwuilin)｜[Linkedin](http://www.linkedin.com/in/yilin-william-wu)｜[TikTok](http://tiktok.com/@foolwuilin/)｜[Instagram](https://www.instagram.com/foolwuilin/)｜[Facebook](https://www.facebook.com/foolwuilin)｜[Youtube](https://www.youtube.com/user/ichizero)｜[Website](https://foolwuilin.wordpress.com/)
 
 Yilin Wu - MBA in business analytics and M.E. in broadcast engineering. Over 2 years of Project Manager experience driving product development for consumer electronics as well as DJ equipment. 6 years of broadcast engineer experience for TV production. Certified expertise in PMP, NPDP, WBSA, Six Sigma, Data Analytics, Audio Engineering, DJing, etc.
 
