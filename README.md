@@ -1,7 +1,7 @@
 # Yilin Wu's Data Science/Analytics Portfolio
 Yilin Wu - MBA in business analytics and M.E. in broadcast engineering. Experience with over 2 years of Project Manager experience driving product development for consumer electronics, e.g. DJ equipment, speakers, electric musical instruments, etc., and 6 plus years of experience as a broadcast engineer for TV production, news, live concerts, etc. Certified in product management (PMP), project management (NPDP), strategic planning (WBSA), data analytics (Python), DJing (Scratch DJ Academy), etc.
 
-## Project 1: Data Scraping through the APIs with NLP Analysis
+## Project 1: RFM Analysis with K-means Clustering
 
 
 ![](/images/rfm.jpg)
