@@ -47,4 +47,4 @@ A good RFM analysis would help businesses target the right customers in order to
 
 ## Project 6: Executive Board Compiled by Google Data Studio and Google Analytics
 
-![](/images/flood_it.jpg)
+![](/images/flood_it_small.jpg)
