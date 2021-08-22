@@ -1,7 +1,17 @@
 # Yilin's Data Science/Analytics Projects
 #### [Kaggle](https://www.kaggle.com/foolwuilin)｜[Linkedin](http://www.linkedin.com/in/yilin-william-wu)｜[TikTok](http://tiktok.com/@foolwuilin/)｜[Instagram](https://www.instagram.com/foolwuilin/)｜[Facebook](https://www.facebook.com/foolwuilin)｜[Youtube](https://www.youtube.com/user/ichizero)｜[Website](https://foolwuilin.wordpress.com/)
 
-**Yilin Wu** - MBA in business analytics and M.E. in broadcast engineering. Over 2 years of Project Manager experience driving product development for consumer electronics as well as DJ equipment. 6 years of broadcast engineer experience for TV production. Certified expertise in PMP, NPDP, WBSA, Six Sigma, Data Analytics, Audio Engineering, DJing, etc.
+**Yilin Wu** - Duble Master's degrees holder; MBA in Business Analytics and M.Eng. in media. 2-year Project Manager experience driving product development for consumer electronics as well as DJ equipment; also, 6-year broadcast engineer experience for TV production, news, live concerts, etc. Certified with PMP (Project Management), NPDP (Product Management), Data Analytics, WBSA (Strategic Planning), Sig Sigma Green Belt, DJing, etc.
+
+## Project 1: [Time Series Prediction for The Rainfall in Kerala](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/Kerala%20Time%20Series%20Prediction/time-series-prediction-for-kerala-rainfall.ipynb)
+
+The agricultural sector, coconut, tea, coffee, cashew and spices are important in Kerala. Thus, well predicting the rainfall in Kerala would benefit the agriculture industry to make a better plan and possibly increase the output. The analysis plan is to answer the below questions.
+
+What is the rainfall situation in Kerala?
+Is any difficulty in predicting the rainfall?
+What prediction method would help, and how accurate the prediction is?
+
+![](/images/time_series.jpg)
 
 ## Project 2: [Sentiment Analysis, Likes & Retweets Prediction (Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Main%20Body_Github.ipynb)
 [Acess the code of data scraping here](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Data%20Scraping.ipynb)
