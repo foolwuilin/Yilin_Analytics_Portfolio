@@ -7,9 +7,9 @@
 
 The agricultural sector, coconut, tea, coffee, cashew and spices are important in Kerala. Thus, well predicting the rainfall in Kerala would benefit the agriculture industry to make a better plan and possibly increase the output. The analysis plan is to answer the below questions.
 
-What is the rainfall situation in Kerala?
-Is any difficulty in predicting the rainfall?
-What prediction method would help, and how accurate the prediction is?
+1. What is the rainfall situation in Kerala?
+2. Is any difficulty in predicting the rainfall?
+3. What prediction method would help, and how accurate the prediction is?
 
 ![](/images/time_series.jpg)
 
