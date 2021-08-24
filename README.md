@@ -3,7 +3,7 @@
 
 **Yilin Wu** - Duble Master's degrees holder; MBA in Business Analytics and M.Eng. in media. 2-year Project Manager experience driving product development for consumer electronics as well as DJ equipment; also, 6-year broadcast engineer experience for TV production, news, live concerts, etc. Certified with PMP (Project Management), NPDP (Product Management), Data Analytics, WBSA (Strategic Planning), Sig Sigma Green Belt, DJing, etc.
 
-## Project 1: [Time Series Prediction for The Rainfall in Kerala](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/Kerala%20Time%20Series%20Prediction/time-series-prediction-for-kerala-rainfall.ipynb)
+## Project 1: [Time Series Prediction for The Rainfall in Kerala](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Kerala%20Time%20Series%20Prediction)
 
 The agricultural sector, coconut, tea, coffee, cashew and spices are important in Kerala. Thus, well predicting the rainfall in Kerala would benefit the agriculture industry to make a better plan and possibly increase the output. The analysis plan is to answer the below questions.
 
