@@ -35,7 +35,7 @@ A Russian alcohol company had success when running a wine promotion in Saint Pet
 
 ![](/images/hierarchy.jpg)
 
-## Project 4: [Market Basket Analysis (Support, Confidence, and Lift)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/Market%20Basket%20Analysis/market-basket-analysis-with-apriori.ipynb)
+## Project 4: [Market Basket Analysis (Support, Confidence, and Lift)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Market%20Basket%20Analysis)
 
 A market basket analysis would help understand the buying behavior of customers. By knowing what items customers would like to buy together as a combination, retail managers are able to make a better shelf displaying plan.
 
