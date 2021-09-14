@@ -25,7 +25,7 @@ Sentiment analysis for inMusic Brands to review the tweets relating to the compa
 
 ![](/images/dj_brands.jpg)
 
-## Project 3: [Customer Bahavior Analysis (K-means and Hierarchical Clustering)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Customer%20Behavior%20Clustering)
+## Project 3: [Customer Behavior Analysis (K-means and Hierarchical Clustering)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Customer%20Behavior%20Clustering)
 
 A Russian alcohol company had success when running a wine promotion in Saint Petersburg. This analysis would like to suggest other locations where the buying behaviors of customers are similar to Saint Petersburg for further promotions to maximize profits. Here are the questions.
 
