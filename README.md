@@ -45,7 +45,7 @@ A market basket analysis would help understand the buying behavior of customers.
 
 ![](/images/network_800.jpg)
 
-## Project 5: [Market RFM Analysis (Retention, Frequency, and Monetary)](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/RFM%20with%20K-means/rfm-analysis-with-k-means-clustering_0810.ipynb)
+## Project 5: [Market RFM Analysis (Retention, Frequency, and Monetary)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/RFM%20with%20K-means)
 
 A good RFM analysis would help businesses target the right customers in order to maximize profit. The given dataset contains sales records with 64.682 transactions and 22.625 customers IDs in 2016. The columns are Transaction, Customer ID, Transaction ID, Category, SKU, Quantity, and Sales Amount. This analysis answers the questions as follows.
 
