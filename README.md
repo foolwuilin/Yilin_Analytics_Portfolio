@@ -13,7 +13,17 @@ The agricultural sector, coconut, tea, coffee, cashew and spices are important i
 
 ![](/images/time_series.jpg)
 
-## Project 2: [Sentiment Analysis, Likes & Retweets Prediction (Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/DJ%20Brands%20Tweets)
+## Project 2: [Customer Behavior Analysis (K-means and Hierarchical Clustering)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Customer%20Behavior%20Clustering)
+
+A Russian alcohol company had success when running a wine promotion in Saint Petersburg. This analysis would like to suggest other locations where the buying behaviors of customers are similar to Saint Petersburg for further promotions to maximize profits. Here are the questions.
+
+1. What is the sales trend of wine in different regions?
+2. Which regions have the same buying behavior as Saint Petersburg?
+3. What are the top 10 regions with higher potential returns for the next wine promotion?
+
+![](/images/hierarchy.jpg)
+
+## Project 3: [Sentiment Analysis, Likes & Retweets Prediction (Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/DJ%20Brands%20Tweets)
 [Acess the code of data scraping here](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Data%20Scraping.ipynb)
 
 Sentiment analysis for inMusic Brands to review the tweets relating to the company's brands and the major competitor, Pioneer DJ. inMusic owns 4 DJ brands, Numark, Rane DJ, Denon DJ, and Stanton. Messages were scrapped by the Twitter API from July 16 to July 25, 2021. The analysis answers the questions.
@@ -24,16 +34,6 @@ Sentiment analysis for inMusic Brands to review the tweets relating to the compa
 4. How accurate is the prediction for likes and retweets?
 
 ![](/images/dj_brands.jpg)
-
-## Project 3: [Customer Behavior Analysis (K-means and Hierarchical Clustering)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Customer%20Behavior%20Clustering)
-
-A Russian alcohol company had success when running a wine promotion in Saint Petersburg. This analysis would like to suggest other locations where the buying behaviors of customers are similar to Saint Petersburg for further promotions to maximize profits. Here are the questions.
-
-1. What is the sales trend of wine in different regions?
-2. Which regions have the same buying behavior as Saint Petersburg?
-3. What are the top 10 regions with higher potential returns for the next wine promotion?
-
-![](/images/hierarchy.jpg)
 
 ## Project 4: [Market Basket Analysis (Support, Confidence, and Lift)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Market%20Basket%20Analysis)
 
