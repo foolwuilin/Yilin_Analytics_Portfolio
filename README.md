@@ -10,7 +10,7 @@ The agricultural sector, coconut, tea, coffee, cashew and spices are important i
 1.	Building five regression models, Linear Regression, Ridge, Lasso, XGBRegressor, and ElasticNet.
 2.	MAE and RMSE for evaluating the accuracy. Correlation between features to evaluate if over-fitting.
 
-![](/images/project 1.jpg)
+![](/images/project_1.jpg)
 
 ## Project 2: [Customer Behavior Analysis (K-means and Hierarchical Clustering)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Customer%20Behavior%20Clustering)
 
@@ -19,7 +19,7 @@ A Russian alcohol company had success when running a wine promotion in Saint Pet
 1.	Choosing the optimal number of groups for K-means clustering by an Elbow method.
 2.	Targeting the cities by a quantile method, K-means clustering and hierarchical clustering.
 
-![](/images/project 2.jpg)
+![](/images/project_2.jpg)
 
 ## Project 3: [Sentiment Analysis, Likes & Retweets Prediction (Data Scraping)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/DJ%20Brands%20Tweets)
 [Acess the code of data scraping here](https://github.com/foolwuilin/Data_Analytics_Projects/blob/main/DJ%20Brands%20Tweets/Twitter%20Sentiment%20Analysis%20-%20Data%20Scraping.ipynb)
@@ -29,7 +29,7 @@ Sentiment analysis for inMusic Brands to review the tweets relating to the compa
 1.	Crawling data by using the Twitter API and then extract useful information from the JSON files.
 2.	Proceeding NLP to get WordCloud keywords, using pipeline and GridsearchCV to optimize classification models, and then evaluating the prediction by a confusion matrix.
 
-![](/images/project 3.jpg)
+![](/images/project_3.jpg)
 
 ## Project 4: [Market Basket Analysis (Support, Confidence, and Lift)](https://github.com/foolwuilin/Data_Analytics_Projects/tree/main/Market%20Basket%20Analysis)
 
